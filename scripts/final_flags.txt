@@ -1,0 +1,1 @@
+--think --think-budget 4000 --retrieval --lora-for essay=0 --lora-think --lora-scale 0.5

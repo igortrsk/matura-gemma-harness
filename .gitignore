@@ -1,0 +1,14 @@
+.env
+.config/
+.ssh/
+raw/
+practice/
+f2015/
+exams/
+runs/
+synthetic/
+sft/
+sources/
+adapters/
+kb/
+__pycache__/
