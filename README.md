@@ -31,9 +31,12 @@ scales for every loaded adapter (llama-server otherwise applies a loaded adapter
 
 `scripts/base_run.sh` runs the untouched base model (thinking ON, no fallback, no retrieval, adapters off).
 
-## Results (2023–2025 papers in the organisers' exam format; 2026 held out, never used)
+## Results 
 
-## Final exam (official) **54/60 (90%)** in the organisers' grading — 🏆 Best exam score award.
+### Final exam (official) 
+**54/60 (90%)** in the organisers' grading — 🏆 Best exam score award.
+
+### Development (2023–2025 papers in the organisers' exam format; 2026 held out, never used)
 
 | Setup | Score |
 |---|---|
