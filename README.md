@@ -1,4 +1,5 @@
 # Matura z historii (rozszerzona) — Gemma 4 12B + harness
+**🏆 Winner — Best exam score, Warsaw Model Trainers hackathon (Kolektyw3, 25–27.09.2026)** — 54/60 (90%) on the final exam.
 
 Warsaw Model Trainers hackathon, Kolektyw3, 25–27.09.2026 (see `SOURCE.md`).
 Goal: score well on the Polish history matura, extended level (CKE Formuła 2023, 60 pts), with open models only, fully
@@ -31,6 +32,8 @@ scales for every loaded adapter (llama-server otherwise applies a loaded adapter
 `scripts/base_run.sh` runs the untouched base model (thinking ON, no fallback, no retrieval, adapters off).
 
 ## Results (2023–2025 papers in the organisers' exam format; 2026 held out, never used)
+
+## Final exam (official) **54/60 (90%)** in the organisers' grading — 🏆 Best exam score award.
 
 | Setup | Score |
 |---|---|
